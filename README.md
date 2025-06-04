@@ -50,6 +50,4 @@ fentanyl_assam_fyp/
 │   ├── filter_assam.py          <- Python script to filter CSVs
 │   └── extract_chimera.py       <- Chimera script to extract structures
 ├── docking/
-│   └── docking_results/         <- Folder for AutoDock or Vina results
-└── images/
-    └── ukm_logo.png             <- UKM logo used in README
+    └── docking_results/         <- Folder for AutoDock or Vina results
