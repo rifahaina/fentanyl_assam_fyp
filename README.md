@@ -33,7 +33,7 @@ This project investigates the potential off-target interactions of fentanyl with
 | Python            | Data filtering, analysis                     |
 | UCSF Chimera      | Protein structure extraction                 |
 | ASSAM             | Structural motif search                      |
-| AutoDock Vina     | Protein-ligand docking                       |
+| Swissdock         | Protein-ligand docking                       |
 | GitHub            | Version control, result sharing              |
 
 ---
