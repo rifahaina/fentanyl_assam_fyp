@@ -44,10 +44,10 @@ This project investigates the potential off-target interactions of fentanyl with
 fentanyl_assam_fyp/
 ├── README.md                    <- Project overview and information
 ├── data/
-│   ├── assam_csv_results/       <- Original ASSAM result CSVs
-│   └── filtered_pdbs/           <- Filtered .pdb files (2 per protein)
+│   ├── assam_csv/               <- Original ASSAM result CSVs
+│   └── filtered_protein_pdb/    <- Filtered .pdb files (2 per protein)
 ├── scripts/
-│   ├── filter_assam.py          <- Python script to filter CSVs
-│   └── extract_chimera.py       <- Chimera script to extract structures
+│   ├── outo_assam_filter.py     <- Python script to filter CSVs
+│   └── chimera_filtering.py     <- Chimera script to extract structures
 ├── docking/
     └── docking_results/         <- Folder for AutoDock or Vina results
